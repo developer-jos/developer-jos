@@ -2,7 +2,8 @@
 - 👀 I’m interested in design, development, coding challenges/new projects, implementation and working as a developer...
 - 🌱 I’m currently learning Python Django and Flutter ...
 - 💞️ I’m looking to collaborate on opoen source communities and coding challenges/new projects...
-- 📫 How to reach me  visiting https://myresume-1d6c4.web.app/ and use the contact page.
+- 📫 How to reach me  visiting https://myresume-1d6c4.web.app/ 
+- https://joshcv.contentdrivennet.com/ and use the contact page.
 
 I have specialized and core expertise to work in web and mobile applications in a variety of industries, ranging from startups to enterprises.
 I got my start working as a developer to work . Since then, I have progressed to building and working with large, highly-customized and integrated 
