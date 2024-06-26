@@ -7,6 +7,6 @@
 🚀 If you’re looking to build a standout resume or CV for tech job positions, check out JoshCV and use the contact page.
 Projects:
 Personal Blog Website: Built using Vue.js, JavaScript, SQL, PHP, HTML, and CSS. Check it out here.
-Client Website: Developed with Bootstrap, JavaScript, SQL, PostgreSQL, HTML, CSS, React Native, Java, and Python. Explore it here.
+Client Website: Developed with Bootstrap, JavaScript, SQL, PostgreSQL, HTML, CSS, React Native,Typescript, Java, and Python. Explore it here.
 I specialize in web and mobile applications across various industries, from startups to enterprises. I began my career as a developer in 2019 and have since advanced to building and managing large, highly-customized, and integrated platforms. My expertise lies in full-stack development, and I have extensive experience with numerous frameworks and APIs. I excel at meeting goals, adhering to deadlines, and continually challenging myself to learn new things. Detail-oriented and goal-driven, I thrive in fast-paced environments.
 
