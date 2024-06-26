@@ -1,0 +1,30 @@
+name: Qodana
+
+on:
+  push:
+    branches:
+      - main
+      - master
+      - 'releases/*'
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  qodana:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      checks: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+      - name: Set QODANA_JOB_URL
+        run: echo "QODANA_JOB_URL=https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> $GITHUB_ENV
+      - name: 'Qodana Scan'
+        uses: JetBrains/qodana-action@v2024.1
+        env:
+          QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }}
+          QODANA_JOB_URL: ${{ env.QODANA_JOB_URL }}
