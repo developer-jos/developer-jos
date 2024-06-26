@@ -1,17 +1,12 @@
-- 👋 Hi, I’m Joshua Ntayibu (Joshua The Programmer)
-- 👀 I’m interested in design, development, coding challenges/new projects, implementation and working as a developer...
-- 🌱 I’m currently working on a Spring Boot project...
-- 💞️ I’m looking to collaborate on opoen source communities and coding challenges/new projects...
-- 📫 How to reach me  visiting https://myresume-1d6c4.web.app/ 
-- Want to build a resume/CV that makes you the best candidate of landing tech jobs positions, JoshCV check out my online in the link below
-- https://joshcv.contentdrivennet.com/ and use the contact page.
-- How I built a personal blog website using vuejs, JavaScript, SQL, PHP, HTML, and CSS
-- My blog website: https://blogwithjn.contentdrivennet.com/
-- How I built a client website using Bootstrap, JavaScript, SQL, Postgresql, HTML, CSS, React Native, Java, and Python:
-- https://mizjboutique.contentdrivennet.com/
+👋 Hi, I’m Joshua Ntayibu, also known as Joshua The Programmer.
 
-I have specialized and core expertise to work in web and mobile applications in a variety of industries, ranging from startups to enterprises.
-I got my start working as a developer to work in 2019. Since then, I have progressed to building and working with large, highly-customized and integrated 
-platforms, becoming an expert in full-stack development. I have also had the opportunity to work extensively with many other frameworks and API's. 
-I excel at meeting goals, making deadlines and consistently challenging myself to learn new things. I am both detail and goal oriented and thrive in 
-a fast-paced environment. 
+👀 I’m passionate about design, development, coding challenges, and new projects. I thrive on implementing innovative solutions and working as a developer.
+🌱 I’m currently developing a Spring Boot project.
+💞️ I’m eager to collaborate on open source communities and engage in coding challenges and new projects.
+📫 You can reach me by visiting my resume.
+🚀 If you’re looking to build a standout resume or CV for tech job positions, check out JoshCV and use the contact page.
+Projects:
+Personal Blog Website: Built using Vue.js, JavaScript, SQL, PHP, HTML, and CSS. Check it out here.
+Client Website: Developed with Bootstrap, JavaScript, SQL, PostgreSQL, HTML, CSS, React Native, Java, and Python. Explore it here.
+I specialize in web and mobile applications across various industries, from startups to enterprises. I began my career as a developer in 2019 and have since advanced to building and managing large, highly-customized, and integrated platforms. My expertise lies in full-stack development, and I have extensive experience with numerous frameworks and APIs. I excel at meeting goals, adhering to deadlines, and continually challenging myself to learn new things. Detail-oriented and goal-driven, I thrive in fast-paced environments.
+
